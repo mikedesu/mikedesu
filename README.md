@@ -1,4 +1,6 @@
-## welcome to evildojo 😈
+## welcome to darkmage's github 😈
+
+##### (on github, darkmage is mikedesu)
 
 <!--
 **mikedesu/mikedesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
