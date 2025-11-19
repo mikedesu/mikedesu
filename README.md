@@ -2,8 +2,8 @@
 
 I am an old tech dude. 
 
-🖥️: [https://www.debian.org](https://www.debian.org)
-⌨️: [https://www.neovim.io](https://www.neovim.io)
+- 🖥️: [https://www.debian.org](https://www.debian.org)
+- ⌨️: [https://www.neovim.io](https://www.neovim.io)
 
 
 | Language/Framework/Tool/etc | First Year Touched | Most Recent Year Touched |
